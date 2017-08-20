@@ -3,7 +3,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt2uGugyAMBeA++n3cu3\/zDW5MZuLtQE6p9ADSpNnCwPVTwCXzJfLzWvmo\/BWRGfJJVsTMri3SzK4p0syuJdqs2++M9ydZsbwxXpZ5eZf3zljrNzZm8L4FP+7yjuW1WPeI9OraPObUsUb1lurOWdHz14MXrdtr3YPhzbWjlp69lutqdUvhs1REeHPtntTHQaOlF7Gm2kacz8hazY2p2b\/QaOFF96WrsaiDfT\/yWFN90e9D+0fcjyw1zeDVdbXq24O3Zi+dyWvp22L+M73o\/RfdAxEzw4vYSp4evV6X95wsL2d\/Ls1PdFyNmXX\/1S7dJ1d7qe2cm3y7tVebczVb9ojzeP0+dw5qAjlX2nr1HzBzPXpSO57uzZmPNSGf181ZB8OLPK9yHrvJf+sI5mMfuvKezXr8Jt\/unvPwos9gseuN9O7JrtebFqs2W+dvxLwvhdU66nWudfbqRebNLNbD2+oas201Odt8zhnvsI7ivtPZu7mV1eqO+L0dYe3hekc7PWZ0XKof02n1o\/3Z9XvM7DpWPi\/\/AEJVGKM=",
+         "data":"eJzt2kmuwyAMAFAfvcdtd80N\/qaRkL\/xgA0GApI3ARI\/DB2kfABenxOPijcA7BBPsmrM2bmNNGfnNNKcnctoM76+Uzteu\/f7ixVapLeMWVvUfn66d1Z3b+9s5hHemcwZn1f3mIuJXmuW5eVsnNlr93qlXGr5Sfv\/dkebo71cPzevxes1W72aZ+Ocufkt7svgvJvVa1lnbqzWqznvvbzWfVUba7FiLzaP9kpNs1elcZE11no9nxe13Lma11zec9zq9Vit+5mytZo1Xuu5jbRq6xzllfKRrJrfS5Z14O6nMVu9XG6gHIvHSffVrkcPr6dmZaP83rOtMVu8VK7U96H0HwfPLa9r1tJjbvFis3bfabwR0eqtWUGw1XIvXWUdqXXw1LiHl\/NQ\/bgP\/97A3lbnBby55uXyjfRS1ojz29uLG1U\/rbfnGe7ltfThPDkH9WxurMX7ZuZx9QOhD+B\/7lpH7Tm1GuM52Buxl1aI4907jnfvKN\/hyM7leI830vsEM\/XeWXZOo727mqX3RrPzG2ndyay17mC2Wld2e6yrmSOss7ujjbO6RzhnMI92ZvizbZK5dR2y8z+xbvwBt0o8tg==",
          "encoding":"base64",
          "height":60,
          "name":"back",
@@ -16,7 +16,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJztllEOxCAIBb3\/ae0Nmv41xlKQB6I4idlk11UG0LaUw+FwOGSjvkYGsngeDrtRS677qvVFO2fKZybXhyyeu5ChXr37bOcz+ee7izfXc3VvqceK3oh6reKMrE90Z6v4ojpb1iOSr9cdM7PO9fXpec5mOc98Zs5wnv2OEMV3VzL5ZnJ9yOQ7+57yhHJd3ffPbXXnUT\/KWbPG1QxUTqUxIPPSOlED1W\/aeK1dUb0m8UXXVdq\/Hr69\/a\/m91p08Wn9OP\/rwYnpa6+ReBF15PaD1Bc9EP3KPetfeMeLzNvIc0u73988xHpfbtJeHvWV1Fs6p53bywXn\/FLM7s9eXrh3ouTsRvDtOUrqKK2tp+\/o+xTa19OZmwfNelw8XKh5iP2kIP2oHrbqlREs+tPjXUUDwpH6Poqn1tuzxlZY9mAkz5Ysni0ZHEeg4t7BLyo3vyitIQ==",
+         "data":"eJztmN0OwyAIRvf+T9u9wdKkF4tR5OcDLHoSbzYnHKBp18\/ncDgcanE9aweuwarMyPl412M3Z8q3ovNOvjPX3vo+64010fj+O\/fcV50RrSvHnapBBihXy9mRWOfUEmMF39aTc11q4mQ4U66SXLk5ZzvPPEc5jr6TxIz2bfvK2YeOG+XLjeGVR5avdY81foRv1n2AyiPCN5sI31V6e3N8sXllPM9w2M33xvseX52dfDOeyzM5vrWRuFapB+e\/a8Z\/Ui+4blJvy3nU+yJuHGs+0nfJ0vOoheiFNr9evl6uyNmz5obIxWt2pL6SWdPmh\/g9ur8evog+at9\/a+NY87TMp7TmCF\/0NebpbPGVenPrMjtv5MY5vwVRZ+Sedm+vFtrrF+GMntF2NmZOb\/PtOWr6yHWN9NXe19C+kc7cOljO4xLhQu1DxJOC9KNm2GtWNHjMZ8RzigWEI\/X5Kp5W78gee+E5gyt5tuzi2bKDowYq7wp+q\/IDyktkNA==",
          "encoding":"base64",
          "height":60,
          "name":"front",
@@ -59,8 +59,168 @@
                  "type":"",
                  "visible":true,
                  "width":64,
-                 "x":216,
+                 "x":208,
                  "y":288
+                }, 
+                {
+                 "gid":238,
+                 "height":8,
+                 "id":1021,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":176,
+                 "y":96
+                }, 
+                {
+                 "gid":239,
+                 "height":8,
+                 "id":1022,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":416,
+                 "y":288
+                }, 
+                {
+                 "gid":239,
+                 "height":8,
+                 "id":1023,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":216,
+                 "y":96
+                }, 
+                {
+                 "gid":239,
+                 "height":8,
+                 "id":1024,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":104,
+                 "y":48
+                }, 
+                {
+                 "gid":238,
+                 "height":8,
+                 "id":1026,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":336,
+                 "y":120
+                }, 
+                {
+                 "gid":238,
+                 "height":8,
+                 "id":1027,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":280,
+                 "y":104
+                }, 
+                {
+                 "gid":238,
+                 "height":8,
+                 "id":1028,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":248,
+                 "y":104
+                }, 
+                {
+                 "gid":238,
+                 "height":8,
+                 "id":1029,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":328,
+                 "y":288
+                }, 
+                {
+                 "gid":238,
+                 "height":8,
+                 "id":1030,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":176,
+                 "y":296
+                }, 
+                {
+                 "gid":238,
+                 "height":8,
+                 "id":1032,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":384,
+                 "y":296
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -95,14 +255,14 @@
                  "properties":
                     {
                      "npc":"human",
-                     "typeName":"elitebountyhunter"
+                     "typeName":"fuwastelandraider"
                     },
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":296,
-                 "y":240
+                 "x":152,
+                 "y":224
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -416,7 +576,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":1019,
+ "nextobjectid":1035,
  "orientation":"orthogonal",
  "properties":
     {
@@ -526,19 +686,19 @@
          "source":"..\/..\/..\/..\/..\/tilesets\/frackinuniverse-custom\/fu_labgear.json"
         }, 
         {
-         "firstgid":7452,
+         "firstgid":7453,
          "source":"..\/..\/..\/..\/..\/tilesets\/frackinuniverse-custom\/fu_labmaterials.json"
         }, 
         {
-         "firstgid":7472,
+         "firstgid":7473,
          "source":"..\/..\/..\/..\/..\/tilesets\/frackinuniverse-custom\/fu_stations.json"
         }, 
         {
-         "firstgid":7543,
+         "firstgid":7544,
          "source":"..\/..\/..\/..\/..\/tilesets\/frackinuniverse-custom\/fu_liquids.json"
         }, 
         {
-         "firstgid":7565,
+         "firstgid":7566,
          "source":"..\/..\/..\/..\/..\/tilesets\/frackinuniverse-custom\/fuplatforms.json"
         }],
  "tilewidth":8,
